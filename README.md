@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I’m **Atharv (athrav138)**, a student learning programming and core computer science concepts.  
+I’m **Atharv Suryavanshi (athrav138)**, a student learning Data Analytics and core computer science concepts.  
 I enjoy writing code, understanding how things work under the hood, and improving my problem-solving skills.
 
-- 🌱 I’m currently learning C, C++, Python, and Data Structures  
+- 🌱 I’m Know C, C++, Python, Oops and Data Structures  
 - 💻 Interested in programming fundamentals and logical problem solving  
 - 📚 This profile contains my practice code, academic work, and learning projects  
 - 📫 Reach me through GitHub  
