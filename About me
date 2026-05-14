@@ -1,24 +1,37 @@
 # 👋 Hi, I'm Atharv Milind Suryavanshi
 
-### Aspiring Data Analyst | Data Science Enthusiast | Computer Science Engineering Student
+### Aspiring Data Analyst | Data Science Enthusiast | AI & Analytics Learner
 
-Passionate about transforming data into meaningful insights and building impactful solutions through analytics, programming, and problem solving. Currently pursuing a Diploma in Computer Science Engineering with a strong focus on Data Analytics, Python, SQL, and Data Visualization.
-
-I enjoy working on real-world projects that combine analytical thinking, clean code, and practical problem-solving.
+🎓 Second-year Computer Science Engineering (CSE) Diploma Student under MSBTE K Scheme
+📍 Maharashtra, India
+📊 Passionate about Data Analytics, Artificial Intelligence, and Problem Solving
+🚀 Building real-world projects using Python, SQL, Power BI, and AI technologies
 
 ---
 
-## 🧠 Technical Skills
+# 🚀 About Me
 
-### 💻 Programming Languages
+I am a Computer Science Engineering diploma student passionate about Data Analytics, AI, and software development. I enjoy transforming data into meaningful insights and building impactful technology solutions through real-world projects.
+
+I continuously work on improving my programming, analytical thinking, and problem-solving skills while exploring modern technologies in Data Science, Machine Learning, and Business Intelligence.
+
+I scored **97% in SSC Board Exams** and aspire to pursue a **B.Tech in AI & ML** followed by a career in Data Science and Analytics.
+
+---
+
+# 💻 Technical Skills
+
+## 👨‍💻 Programming Languages
 
 * Python
-* C++
-* Java
 * SQL
+* Java
+* C++
 * C
 
-### 📊 Data Analytics & Visualization
+---
+
+## 📊 Data Analytics & Visualization
 
 * Power BI
 * Tableau
@@ -26,97 +39,242 @@ I enjoy working on real-world projects that combine analytical thinking, clean c
 * NumPy
 * Matplotlib
 
-### 🗄 Database Technologies
+---
+
+## 🗄️ Database Technologies
 
 * MySQL
 * PL/SQL
 * DBMS
 
-### ⚡ Core Concepts
+---
+
+## 🧠 Core Concepts
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
-* Problem Solving
 * Data Cleaning & Analysis
+* Problem Solving
+* Basic Machine Learning Concepts
 
-### 🛠 Tools & Platforms
+---
+
+## 🛠️ Tools & Platforms
 
 * Git & GitHub
 * VS Code
 * Figma
+* Jupyter Notebook
 
 ---
 
-## 🚀 Featured Profiles
+# 🚀 Featured Projects
 
-* [LinkedIn](https://www.linkedin.com/in/atharv-suryavanshi-5b0969352?utm_source=chatgpt.com)
-* [GitHub](https://github.com/athrav138?utm_source=chatgpt.com)
-* [LeetCode](https://leetcode.com/u/Atharv138/?utm_source=chatgpt.com)
+## 🔐 DeepFake KYC Shield
+
+AI-powered identity verification security system designed to detect deepfake-based fraud attempts during digital KYC processes.
+
+### Tech Stack
+
+Python • OpenCV • TensorFlow • Machine Learning
+
+### Key Features
+
+* Deepfake face detection
+* AI-based facial verification
+* Fraud prevention workflow
+* Real-time identity validation
 
 ---
 
-## 📌 Areas of Interest
+## 📊 Portfolio Website
+
+Personal portfolio website showcasing projects, technical skills, achievements, and contact information.
+
+### Features
+
+* Responsive design
+* Smooth UI/UX
+* Project showcase section
+* Professional developer portfolio
+
+### Links
+
+🔗 Live Demo:
+https://athrav138.github.io/ATHARV-S-PORFOLIO-WEB/
+
+🔗 GitHub Repository:
+https://github.com/athrav138/ATHARV-S-PORFOLIO-WEB
+
+---
+
+## ✅ AI-Assisted Task Manager
+
+Productivity-focused task management web application with AI-assisted workflow concepts.
+
+### Features
+
+* Task organization system
+* Clean user interface
+* Productivity management
+* Responsive design
+
+### Links
+
+🔗 Live Demo:
+https://athrav138.github.io/AI-Assisted-Task-Manager/
+
+🔗 GitHub Repository:
+https://github.com/athrav138/AI-Assisted-Task-Manager
+
+---
+
+## 📚 Apna E-Book Website
+
+Digital platform for reading and managing e-books online.
+
+### Features
+
+* Online reading interface
+* Book management system
+* Responsive layout
+* User-friendly UI
+
+### Links
+
+🔗 Live Demo:
+https://athrav138.github.io/Apna-E-Book-Website/
+
+🔗 GitHub Repository:
+https://github.com/athrav138/Apna-E-Book-Website
+
+---
+
+## 🧮 Modern Calculator Website
+
+Modern responsive calculator web application with clean UI design.
+
+### Features
+
+* Responsive calculator interface
+* Modern UI design
+* Interactive functionality
+* Mobile-friendly layout
+
+### Links
+
+🔗 Live Demo:
+https://athrav138.github.io/Modern-Calculator/
+
+🔗 GitHub Repository:
+https://github.com/athrav138/Modern-Calculator
+
+---
+
+## 🔑 Animated Login & Signup UI
+
+Modern authentication UI design project with animated transitions.
+
+### Features
+
+* Animated authentication forms
+* Responsive UI
+* Interactive transitions
+* Modern design principles
+
+### Links
+
+🔗 Live Demo:
+https://athrav138.github.io/Animated-Login-Signup-UI/
+
+🔗 GitHub Repository:
+https://github.com/athrav138/Animated-Login-Signup-UI
+
+---
+
+# 📈 Currently Learning
+
+* Advanced Python for Data Analysis
+* Machine Learning Fundamentals
+* Advanced SQL Queries
+* Power BI Dashboard Development
+* Data Visualization Techniques
+* System Design Basics
+
+---
+
+# 📌 Areas of Interest
 
 * Data Analytics
 * Data Science
 * Machine Learning
 * Business Intelligence
-* Dashboard Development
 * AI-Powered Applications
+* Dashboard Development
+* Data Visualization
 
 ---
 
-## 🌱 Currently Learning
-
-* Advanced Python for Data Analysis
-* Machine Learning Fundamentals
-* Advanced SQL Queries
-* Power BI Dashboard Design
-* System Design Basics
-
----
-
-## 📈 What I Focus On
-
-✔ Writing clean and maintainable code
-✔ Building practical and real-world projects
-✔ Improving analytical and problem-solving skills
-✔ Learning modern tools used in the data industry
-✔ Exploring AI and data-driven technologies
-
----
-
-## 📊 GitHub Analytics
-
-```md id="l9s7ke"
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athrav138&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athrav138&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=athrav138&theme=tokyonight&hide_border=true)
-```
-
----
-
-## 🏆 Goals
+# 🎯 Career Goals
 
 * Become a skilled Data Scientist
 * Build industry-level analytics projects
-* Gain strong expertise in Data Analytics & AI
-* Contribute to innovative and impactful tech solutions
+* Gain expertise in AI and Data Analytics
+* Work on impactful real-world solutions
+* Contribute to innovative technology products
 
 ---
 
-## 📬 Contact Information
+# 🏆 Highlights
 
-📧 **Email:** [suryavanshiathrav072@gmail.com](mailto:suryavanshiathrav072@gmail.com)
-📱 **Phone:** +91 9922157472
+✔ Strong interest in Data Analytics and AI
+✔ Consistent learner with hands-on project experience
+✔ Passionate about solving real-world problems
+✔ Focused on continuous skill improvement
+✔ Experience with deployment and GitHub project management
 
 ---
 
-## ✨ Profile Highlights
+# 📊 GitHub Stats
 
-* Strong interest in Data Analytics and AI
-* Consistent learner with hands-on project experience
-* Passionate about technology and innovation
-* Focused on continuous growth and skill development
+<!-- You can add GitHub stats cards here -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athrav138\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athrav138\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🔗 Connect With Me
+
+## GitHub
+
+https://github.com/athrav138
+
+## LinkedIn
+
+https://www.linkedin.com/in/atharv-suryavanshi-5b0969352
+
+## LeetCode
+
+https://leetcode.com/u/Atharv138/
+
+## HackerRank
+
+https://www.hackerrank.com/profile/suryavanshiathr1
+
+## Instagram
+
+https://www.instagram.com/atharv_8830/
+
+---
+
+# 🌟 Portfolio Website
+
+🔗 https://athrav138.github.io/ATHARV-S-PORFOLIO-WEB/
+
+---
+
+# ✨ Quote
+
+“Transforming data into insights and ideas into impactful solutions.”
