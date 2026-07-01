@@ -1,25 +1,4 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Atharv Milind Suryavanshi
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-AI • Data Science • Data Engineering • Full Stack Developer
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-Passionate about building intelligent applications, solving real-world
-problems, and continuously learning new technologies.
-```{=html}
-</p>
-```
+
 # 💫 About Me
 
 -   🎓 Diploma Student passionate about Artificial Intelligence, Data
