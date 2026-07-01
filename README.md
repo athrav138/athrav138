@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Atharv Milind Suryavanshi</h1>
-<h3 align="center">AI • Data Science • Data Engineering • Full Stack Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=athrav138&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ## 💫 About Me
 
 - 🎓 Diploma student passionate about Artificial Intelligence, Data Science, Data Analytics, Data Engineering, and Software Development.
@@ -83,15 +76,12 @@
 
 ## 🐍 Snake Animation
 
-> After adding the GitHub Action workflow, replace this section with:
 
-```md
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athrav138/athrav138/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athrav138/athrav138/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/athrav138/athrav138/output/github-contribution-grid-snake.svg">
 </picture>
-```
 
 ---
 
