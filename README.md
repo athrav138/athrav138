@@ -1,24 +1,132 @@
-# 💫 About Me:
-# Hi 👋, I'm Atharv Milind Suryavanshi<br><br>## 🚀 About Me<br><br>I am a passionate Diploma student with a strong interest in Artificial Intelligence, Data Science, Data Analytics, Data Engineering, and Software Development. I enjoy building innovative and practical applications that solve real-world problems through technology.<br><br>I am continuously learning new technologies and improving my skills in Python, Machine Learning, Web Development, Database Management, and Cloud Computing. I believe in hands-on learning and enjoy working on projects that challenge me to think creatively and improve my problem-solving abilities.<br><br>My goal is to become a skilled AI and Data Engineer while contributing to impactful software solutions that make a difference. I am always eager to explore emerging technologies, collaborate on exciting projects, and expand my knowledge through continuous learning.<br><br>Outside of academics, I enjoy developing personal projects, exploring open-source technologies, and enhancing my technical skills through practical implementation. I believe that consistency, curiosity, and continuous improvement are the keys to success in the technology field.<br>
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Atharv Milind Suryavanshi
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+AI • Data Science • Data Engineering • Full Stack Developer
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+Passionate about building intelligent applications, solving real-world
+problems, and continuously learning new technologies.
+```{=html}
+</p>
+```
+# 💫 About Me
 
+-   🎓 Diploma Student passionate about Artificial Intelligence, Data
+    Science, Data Analytics, Data Engineering, and Software Development.
+-   🌱 Currently learning Machine Learning, Deep Learning, Cloud
+    Computing, Data Engineering, and Full Stack Development.
+-   💻 I enjoy building desktop, web, and mobile applications that solve
+    real-world problems.
+-   🚀 Interested in AI, Data Engineering, Analytics, Open Source, and
+    Automation.
+-   🎯 Goal: Become an AI Engineer and Data Engineer while creating
+    impactful software solutions.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](atharv-suryavanshi-5b0969352) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](suryavanshiathrav072) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](explore_with_aps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryavanshiathrav072@gmail.com) 
+## 🌐 Socials
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=athrav138&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=athrav138&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=athrav138&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-suryavanshi-5b0969352/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/athrav138)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Atharv138/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/suryavanshiathr1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@explore_with_aps)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@suryavanshiathrav072)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryavanshiathrav072@gmail.com)
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Google
+Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud)
+![Power
+BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)
+
+# 🚀 Featured Projects
+
+-   CareerForge AI
+-   TruthLens -- AI Fake News Detection Platform
+-   Guardian Women Safety Android App
+-   PAKO Engineers Website
+-   AI Assisted Task Manager
+-   Apna E-Book Website
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=athrav138&theme=ambient_gradient&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=athrav138&theme=ambient_gradient)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=athrav138&layout=compact&theme=ambient_gradient)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=athrav138&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+![](https://github-profile-trophy.vercel.app/?username=athrav138&theme=radical&margin-w=8)
+
+## 🔝 Top Contributed Repositories
+
 ![](https://github-contributor-stats.vercel.app/api?username=athrav138&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=athrav138&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Contribution Graph
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Atharv's github activity
+graph](https://github-readme-activity-graph.vercel.app/graph?username=athrav138&theme=github-compact)](https://github.com/athrav138)
+
+## 🐍 Contribution Snake
+
+![Snake
+animation](https://github.com/athrav138/athrav138/blob/output/github-contribution-grid-snake.svg)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=athrav138&label=Profile%20Views&color=0e75b6&style=flat)
+
+------------------------------------------------------------------------
+
+> **"Learning never stops. Every project is another step toward becoming
+> a better developer."**
+
+⭐ If you like my work, consider starring my repositories!
